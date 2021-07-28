@@ -5,5 +5,5 @@ test("should return string's length ", () => {
 });
 
 test("should be at least 1 character long", () => {
-  expect(task("")).toThrow(Error);
+  expect(()=>{ task("") }).toThrow("You suck");
 });
