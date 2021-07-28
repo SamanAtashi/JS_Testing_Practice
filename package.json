@@ -1,0 +1,24 @@
+{
+  "name": "js_testing_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch",
+    "watchAll": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamanAtashi/JS_Testing_Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamanAtashi/JS_Testing_Practice/issues"
+  },
+  "homepage": "https://github.com/SamanAtashi/JS_Testing_Practice#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
